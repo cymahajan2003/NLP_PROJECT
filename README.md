@@ -5,13 +5,13 @@
 
 ---
 
-# Python Environment Setup
+# Python Environment Setup:
 
 This guide helps you install the necessary Python packages to run the project.
 
 ---
 
-## Required Packages
+## Required Packages:
 
 The project uses the following Python packages:
 
@@ -22,7 +22,7 @@ The project uses the following Python packages:
 
 ---
 
-## Installation
+## Installation:
 
 Open your terminal or command prompt and run the following commands:
 
